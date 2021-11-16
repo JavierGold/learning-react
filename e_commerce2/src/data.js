@@ -67,7 +67,7 @@ export const sliderItems = [
     },
     {
       id:7,
-      img:"https://www.vintageindustries.nl/download_front/qympzk1762/2217_Arrow_Jacket_Forest.png",
+      img:"https://ae01.alicdn.com/kf/HTB1FfzFX5DxK1Rjy1zcq6yGeXXao/Cotton-Solid-Denim-Jacket-Mens-2020-Spring-Autumn-Casual-Slim-Fit-Bomber-Jackets-Men-Jean-Jacket.jpg_Q90.jpg_.webp",
     },
     {
       id:8,
